@@ -1,5 +1,5 @@
 {
-    "name": "xcy/dcat-server-monitor",
+    "name": "xingchuangyang/dcat-server-monitor",
     "alias": "dcat-server-monitor",
     "description": "dcat-admin 服务监控面板",
     "type": "library",
