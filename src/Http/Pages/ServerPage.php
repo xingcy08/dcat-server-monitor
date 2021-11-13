@@ -28,6 +28,6 @@ class ServerPage implements Renderable
         Admin::js(static::$js);
         Admin::css(static::$css);
 
-        return view('xcy.dcat-server-monitor::index')->render();
+        return view('xingchuangyang.dcat-server-monitor::index')->render();
     }
 }
