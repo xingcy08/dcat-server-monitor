@@ -48,7 +48,7 @@
                                             <div class="cell">空闲率</div>
                                         </td>
                                         <td>
-                                            <div class="cell" v-if="cpuInfo">@{{ cpuInfo.free }}1%</div>
+                                            <div class="cell" v-if="cpuInfo">@{{ cpuInfo.free }}%</div>
                                         </td>
                                     </tr>
                                     </tbody>
